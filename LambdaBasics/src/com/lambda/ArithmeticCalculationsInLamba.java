@@ -2,7 +2,7 @@
  * Performs addition/sub/multiplication
  * and division
  */
-package com.lambda.operations;
+package com.lambda;
 
 //imports
 import java.util.Scanner;
