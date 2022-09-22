@@ -1,6 +1,7 @@
 # Warmup_pgms
 
-Basic java program 
+Java 8 - Lambda expression usage
 
-#Variables
+1. Arithmetic Operations using Lambda
+2. Sorting List using Lambda
 
