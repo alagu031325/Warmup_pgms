@@ -15,6 +15,8 @@ NOTE : Eclipse + Git
    [If https connection to github push is not working try ssh
    change Winodws->preferences->git[teams]->configuration
    -> repo config->origin url-> change to ssh] 
+   https://stackoverflow.com/questions/68790276/pushing-from-eclipse-to-my-github-repository-via-https-stopped-working-git-rec
+   
 4. In the underlying it needs ssh-keys to authenticate itself with github 
 5. So if id_rsa doesnt exist in .ssh folder then generate one and add
    the public key to the github so that it can authenticate pushes from
