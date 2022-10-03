@@ -7,6 +7,7 @@ Java 8 - Lambda expression usage
 
 
 
+
 NOTE : Eclipse + Git
 1. Clone the git repository in the local machine
 2. Import the corresponding projects
@@ -15,4 +16,5 @@ NOTE : Eclipse + Git
    underlying it needs ssh-keys to authenticate the machine 
 5. So if id_rsa doesnt exist in .ssh then generate one and add
    the public key to the github so that it can authenticate pushes
+   [account->settings->ssh keys->create new key with pub key contents]
 6. Enter github credentials in eclipse as needed to connect to it
