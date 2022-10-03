@@ -17,6 +17,7 @@ NOTE : Eclipse + Git
    -> repo config->origin url-> change to ssh] 
    
    https://stackoverflow.com/questions/68790276/pushing-from-eclipse-to-my-github-repository-via-https-stopped-working-git-rec
+   
    For some reason https connection to github is not allowed ... 
    we can either generate personal access tokens and use it in 
    the place of the passowrd to authenticate the push or use ssh
