@@ -86,7 +86,7 @@ public class SortingElementsInLambda {
 				printAllElements(peopleList, p1 -> p1.getFirstName().startsWith(startPrefix));
 				break;
 			default:
-				System.out.println("Enter a valid integer");
+				System.out.println("Enter a valid integer from the list");
 				break;
 			}
 			System.out.println("Do you want to continue type y/n");
